@@ -14,7 +14,7 @@ QuadSKpico is an open-source hardware design for a **multi-RP2040-based SID chip
 
 - This hardware is licensed under the **CERN OHL-S 2.0**, ensuring it remains open and free.
 - The firmware it runs is released under **GPLv3**, meaning modifications must also remain open-source.
-- This project is **not affiliated with or derived from SIDKick hardware**, though it may run compatible software.
+- This project is **not affiliated with or derived from SIDKick hardware** and the SIDKick Pico software is not compatible.
 
 ## **How to Contribute**
 
